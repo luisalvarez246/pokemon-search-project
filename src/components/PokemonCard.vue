@@ -149,16 +149,11 @@ div h2 {
   box-shadow: 10px 10px 12px 10px rgba(0, 0, 0, 0.3);
 }
 .pokeScnd {
-  border: 2px solid #fff;
-  font-size: 24px;
+  height: 10%;
+  font-size: 1rem;
   font-family: 'Comic Neue', cursive;
   font-weight: bold;
-}
-
-p {
-  display: inline-block;
-  padding: 5px 10px;
-  border-radius: 5px;
+  margin: 0;
 }
 
 .idName {
@@ -168,7 +163,7 @@ p {
 
 #pokeAbility {
   border: 2px solid #fff;
-  margin-bottom: 50px;
+  /* margin-bottom: 50px; */
 }
 
 .fire {
